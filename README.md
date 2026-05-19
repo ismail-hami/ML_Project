@@ -7,7 +7,7 @@ https://youtu.be/s5Yd_4NLjro
 
 ## Overview
 
-EMSI_IA_Visualizer_3D is a standalone desktop application that provides interactive 3D visualizations of six Machine Learning algorithms. Developed for a 3rd-year Computer Science project at EMSI.
+EMSI_IA_Visualizer_3D is a standalone desktop application that provides interactive 3D visualizations of six Machine Learning algorithms. Developed as part of a 3rd-year Computer Science academic project at EMSI. at EMSI.
 
 ## Algorithms Included
 
@@ -36,7 +36,11 @@ Python, Tkinter, Matplotlib, Scikit-learn, Statsmodels, NumPy, Pillow, PyInstall
 
 ## Executable Version
 
-A Windows standalone executable (.exe) is available in the Releases section. No Python installation required.
+A Windows standalone executable (.exe) is available in the Releases section:
+
+👉 https://github.com/ismail-hami/ML_Project/releases
+
+No Python installation is required.
 
 ## Project Structure
 
